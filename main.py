@@ -1,7 +1,7 @@
 # Hi user! print function
 
 def print_hi(name):
-    print(f'Hi, {name}')
+    print("Hi {0}".format(name))
 
 
 if __name__ == '__main__':
